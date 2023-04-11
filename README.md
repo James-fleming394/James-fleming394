@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @James-fleming394
-- 👀 I’m interested in continuing to develop and practice my coding skills while attending bootcamps 
-- 🌱 I'm currently learning new skills in the React framework, while working on Python projects to continue to build my understanding. 
-- 💞️ I’m looking to collaborate on: frontend and backend projects using HTML, CSS, Javascript, React.js and Python. 
+- 👀 I’m interested in FullStack, front-end and back-end engineering roles with companies of all shapes and sizes.
+- 🌱 I'm currently working on a number of web application projects for local businesses in the New York City area using React and Javascript. 
+- 💞️ I’m looking to collaborate on frontend and backend projects using HTML, CSS, Javascript and React.js.
 - 📫 How to reach me: James.fleming394@gmail.com
