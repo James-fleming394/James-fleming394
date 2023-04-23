@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @James-fleming394
+- 👋 Hi, I’m James Fleming
 - 👀 I’m interested in FullStack, front-end and back-end engineering roles with companies of all shapes and sizes.
 - 🌱 I'm currently working on a number of web application projects for local businesses in the New York City area using React and Javascript. 
 - 💞️ I’m looking to collaborate on frontend and backend projects using HTML, CSS, Javascript and React.js.
